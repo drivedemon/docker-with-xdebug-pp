@@ -32,6 +32,17 @@ Make new ENV
 cp .env.example .env
 ```
 
+Change DB config to
+```
+DB_HOST=db
+DB_DATABASE=pp-app-main
+DB_USERNAME=admin
+DB_PASSWORD=1234
+REDIS_HOST=redis
+QUEUE_DRIVER=redis
+FILESYSTEM_DRIVER=s3
+```
+
 Go to inside docker
 ```
 docker exec -it <container_name> bash
@@ -43,7 +54,6 @@ composer install
 php artisan migrate
 yarn install
 yarn run dev
-
 ```
 
 ## Well done! Setup project finished~~
