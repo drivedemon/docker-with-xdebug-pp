@@ -2,7 +2,7 @@
 
 ![Alt Text](https://media.giphy.com/media/e5EcjjJx3dCFi/giphy.gif)
 
-## Main structure
+## Docker setup
 
 Clone repo
 ```
