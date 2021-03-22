@@ -22,10 +22,10 @@ Build Image
 docker-compose up -d
 ```
 
-## done! for setup docker
+## Done! setup docker
 ---
 
-## start setup project
+## Start setup project
 
 Make new ENV
 ```
@@ -61,3 +61,7 @@ Add host name
 127.0.0.1 dev-app.peerpower.co.th
 127.0.0.1 dev-admin.peerpower.co.th
 ```
+---
+
+# Note
+## If you need adapt to other project just make sure your (container name / mapping host / nginx config host) correctly :)
