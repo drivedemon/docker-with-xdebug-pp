@@ -37,9 +37,6 @@ Sendinblue mail server config for loan-beta-app
     - SENDINBLUE_API_KEY={register in www.sendinblue.com}
     - SENDINBLUE_TESTING_EMAIL={your email}
 ```
-
+---
 ## Note
-From example config I change service name in `docker-compose` file also you need to change some config
->DB_HOST
-
->REDIS_HOST
+From example config I change service name in `docker-compose` file also you need to change some config in `env` and nginx conifg
