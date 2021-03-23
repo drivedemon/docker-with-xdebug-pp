@@ -74,4 +74,4 @@ Add host name
 ---
 
 # Note
-If you need adapt to other project just make sure your `(container name / docker db config / env db config / mapping host / nginx config host)` correctly :)
+> If you need adapt to other project just make sure your `(container name / docker db config / env db config / mapping host / nginx config host)` correctly :)
