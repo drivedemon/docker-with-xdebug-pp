@@ -1,6 +1,6 @@
 # docker-with-xdebug-pp
 
-![Alt Text](https://media.giphy.com/media/e5EcjjJx3dCFi/giphy.gif)
+![Alt Text](https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif)
 
 ## Docker setup
 
