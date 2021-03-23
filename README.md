@@ -34,11 +34,11 @@ cp .env.example .env
 
 Change DB config
 
->[Main-app](https://github.com/drivedemon/docker-with-xdebug-pp/blob/master/main_app.md)
+>[Main-app-config](https://github.com/drivedemon/docker-with-xdebug-pp/blob/master/main_app.md)
 
->[Loan-beta](https://github.com/drivedemon/docker-with-xdebug-pp/blob/master/loan_beta_app.md)
+>[Loan-beta-config](https://github.com/drivedemon/docker-with-xdebug-pp/blob/master/loan_beta_app.md)
 
->[Data-mart](https://github.com/drivedemon/docker-with-xdebug-pp/blob/master/data_mart_app.md)
+>[Data-mart-config](https://github.com/drivedemon/docker-with-xdebug-pp/blob/master/data_mart_app.md)
 
 Go to inside docker
 ```
