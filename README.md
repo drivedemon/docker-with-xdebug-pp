@@ -9,12 +9,15 @@ Clone repo
 git clone <Repository URL>
 ```
 
-Copy to inside your project and change DB config
+Copy to inside your project and change config
 ```
 MYSQL_ROOT_PASSWORD=root
 MYSQL_DATABASE=pp-app-main
 MYSQL_USER=admin
 MYSQL_PASSWORD=1234
+
+> Please change to mapping path and your IP
+extra_host: "{host_name.domain.co.th}:{192.168.1.1}"
 ```
 
 Build Image
