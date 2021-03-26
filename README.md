@@ -60,6 +60,7 @@ yarn run dev
 ```
 
 If you need to start develop frontend path please run this command
+> Don't forget to change host name in webpack.mix.js
 ```
 yarn run watch
 ```
