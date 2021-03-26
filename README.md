@@ -10,6 +10,7 @@ git clone <Repository URL>
 ```
 
 Copy to inside your project and change config
+> Note: example for main-app if you need to build other project please change database name
 ```
 MYSQL_ROOT_PASSWORD=root
 MYSQL_DATABASE=pp-app-main
