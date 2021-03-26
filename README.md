@@ -83,3 +83,6 @@ Add host name
 
 # Note
 > If you need adapt to other project just make sure your `(container name / docker db config / env db config / mapping host / nginx config host)` correctly :)
+ 
+# Require for main-app / loan-beta
+> After finished setup project you need to update password to easier manually in `artisan tinker` if concern just ask someone for that command ;)
