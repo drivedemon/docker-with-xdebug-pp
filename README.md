@@ -58,6 +58,11 @@ yarn install
 yarn run dev
 ```
 
+If you need to start develop frontend path please run this command
+```
+yarn run watch
+```
+
 ## Well done! Setup project finished~~
 ---
 
