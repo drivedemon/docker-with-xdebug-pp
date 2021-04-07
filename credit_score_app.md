@@ -2,6 +2,8 @@
 
 ## so easy just clone docker and change service name then edit db config
 
+![Alt Text](https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif)
+
 Main DB config for credit-score-app `base on docker config`
 ```
     - DB_HOST=credit-score-db
