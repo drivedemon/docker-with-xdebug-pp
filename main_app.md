@@ -26,6 +26,23 @@ Data mart config for main-app `require data mart app`
     - eg. DATA_MART_URL=http://dev-data-mart.peerpower.co.th:81
 ```
 
+Landing page config for main-app `require landing page app`
+```
+    - LANDING_PAGE_ENABLED=true
+    - LANDING_PAGE_URL={up to you define host also base on docker extra host config}
+    - LANDING_PAGE_TOKEN={see in db landing page}
+
+    - eg. DATA_MART_URL=http://dev-landing-page.peerpower.co.th:82
+```
+
+Credit score config for main-app `require credit score app`
+```
+    - CREDIT_SCORE_URL={up to you define host also base on docker extra host config}
+    - CREDIT_SCORE_TOKEN={see in db credit score}
+
+    - eg. DATA_MART_URL=http://dev-credit-score.peerpower.co.th:84
+```
+
 Sendinblue mail server config for main-app
 > Ps: still error 100% coz template not exist if you need to see how it work please get `API_KEY` from prod
 ```
