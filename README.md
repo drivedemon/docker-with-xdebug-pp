@@ -46,12 +46,17 @@ Change DB config
 
 >[Data-mart-config](https://github.com/drivedemon/docker-with-xdebug-pp/blob/master/data_mart_app.md)
 
+>[Landing-page-config](https://github.com/drivedemon/docker-with-xdebug-pp/blob/master/landing_page_app.md)
+
+>[Credit-score-config](https://github.com/drivedemon/docker-with-xdebug-pp/blob/master/credit_score_app.md)
+
 Go to inside docker
 ```
 docker exec -it <container_name> bash
 ```
 
 Run install dependencies
+> Note: only landing page app you need to run `migrate with seed`
 ```
 composer install
 php artisan migrate
